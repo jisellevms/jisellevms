@@ -3,6 +3,13 @@
 My name is Jiselle Martins, I'm a mobile developer. I am studying Software Engineering💻.
 My free time is divided into books 📚(I am passionate about poetry), travel✈, romance films ❤, family and friends👨‍👩‍👧‍👧. 
 
+ ### Contact me:
+<div> 
+    <a href="https://www.linkedin.com/in/jisellemartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jisellevms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/jisellemartins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
+&nbsp;
 <div>
   <a href="https://github.com/jisellevms">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jisellevms&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
@@ -23,11 +30,6 @@ My free time is divided into books 📚(I am passionate about poetry), travel✈
   <img align="center" alt="Rafa-Csharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
   <img align="center" alt="Rafa-Csharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
 </div>
-  &nbsp;
+
   
-  ### Contact me:
-<div> 
-    <a href="https://www.linkedin.com/in/jisellemartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jisellevms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/jisellemartins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-</div>
+ 
