@@ -1,6 +1,6 @@
 ### Hey guys 😘
 
-My name is Jiselle Martins, I'm a mobile developer. I am studying Software Engineering💻.
+My name is Jiselle Martins, I'm a mobile developer. I have a degree in software engineering and I am studying software architecture in my postgraduate💻.
 My free time is divided into books 📚(I am passionate about poetry), travel✈, romance films ❤, family and friends👨‍👩‍👧‍👧. 
 
  ### Contact me:
